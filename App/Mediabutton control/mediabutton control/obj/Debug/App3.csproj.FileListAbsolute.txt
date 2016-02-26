@@ -1,0 +1,34 @@
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\bin\Debug\App.xbf
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\bin\Debug\MainPage.xbf
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\bin\Debug\resources.pri
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\bin\Debug\AppxManifest.xml
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\bin\Debug\App3.build.appxrecipe
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\App.g.i.cs
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\App.g.cs
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\MainPage.g.i.cs
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\MainPage.g.cs
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\XamlTypeInfo.g.cs
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\App.xaml
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\App.xbf
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\XamlSaveStateFile.xml
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\MainPage.xaml
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\MainPage.xbf
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\priconfig.xml
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\priconfig.xml.intermediate
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\layout.resfiles
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\layout.resfiles.intermediate
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\resources.resfiles
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\resources.resfiles.intermediate
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\pri.resfiles
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\pri.resfiles.intermediate
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\qualifiers.txt
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\qualifiers.txt.intermediate
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Erik\documents\visual studio 2015\Projects\App3\App3\bin\Debug\Mediabutton Control.xr.xml
+C:\Users\Erik\documents\visual studio 2015\Projects\App3\App3\bin\Debug\Mediabutton Control.exe
+C:\Users\Erik\documents\visual studio 2015\Projects\App3\App3\bin\Debug\Mediabutton Control.pdb
+C:\Users\Erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\Mediabutton Control.exe
+C:\Users\Erik\documents\visual studio 2015\Projects\App3\App3\obj\Debug\Mediabutton Control.pdb
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Debug\Mediabutton Control.exe.CodeAnalysisLog.xml
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Debug\Mediabutton Control.exe.lastcodeanalysissucceeded

@@ -1,0 +1,13 @@
+[Files]
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\Mediabutton Control.exe" "Mediabutton Control.exe"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\Assets\Logo.scale-240.png" "Assets\Logo.scale-240.png"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\Assets\SmallLogo.scale-240.png" "Assets\SmallLogo.scale-240.png"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\Assets\SplashScreen.scale-240.png" "Assets\SplashScreen.scale-240.png"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\Assets\Square71x71Logo.scale-240.png" "Assets\Square71x71Logo.scale-240.png"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\Assets\StoreLogo.scale-240.png" "Assets\StoreLogo.scale-240.png"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\Assets\WideLogo.scale-240.png" "Assets\WideLogo.scale-240.png"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\Mediabutton Control.xr.xml" "Mediabutton Control.xr.xml"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\App.xbf" "App.xbf"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\MainPage.xbf" "MainPage.xbf"
+"C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\resources.pri" "resources.pri"

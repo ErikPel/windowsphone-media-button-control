@@ -1,0 +1,32 @@
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\App.xbf
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\MainPage.xbf
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\Mediabutton Control.xr.xml
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\Mediabutton Control.exe
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\Mediabutton Control.pdb
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\resources.pri
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\AppxManifest.xml
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\bin\Release\App3.build.appxrecipe
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\App.g.i.cs
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\App.g.cs
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\MainPage.g.i.cs
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\MainPage.g.cs
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\App.xaml
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\MainPage.xaml
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\App.xbf
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\MainPage.xbf
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\XamlSaveStateFile.xml
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\Mediabutton Control.exe
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\Mediabutton Control.pdb
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\priconfig.xml
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\priconfig.xml.intermediate
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\layout.resfiles
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\layout.resfiles.intermediate
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\resources.resfiles
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\resources.resfiles.intermediate
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\pri.resfiles
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\pri.resfiles.intermediate
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\qualifiers.txt
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\qualifiers.txt.intermediate
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Erik\Documents\Visual Studio 2015\Projects\App3\App3\obj\Release\ProjectArchitectures.txt
